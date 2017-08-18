@@ -13,6 +13,7 @@ def tiny_int(val, call_back = None):
         call_back()
       else:
         print(error)
+        print(error)
 
 def call_back_function():
     print("Esto se ejecuta cuando existe un error")
